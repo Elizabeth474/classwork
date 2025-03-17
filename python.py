@@ -10,10 +10,10 @@
 
 # question 3
 
-for i in range(5):
-    word = input(f"Enter word {i+1}: ")
-    word_length = len(word.replace(' ', ''))
-    print(f"The length of word {i+1} without spaces is: {word_length}")
+# for i in range(5):
+    # word = input(f"Enter word {i+1}: ")
+    # word_length = len(word.replace(' ', ''))
+    # print(f"The length of word {i+1} without spaces is: {word_length}")
 
 # question 4
 
